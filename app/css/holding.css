@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400);
+
+body {
+	background-image: url("../assets/burgers.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+	font-family: 'Arimo', sans-serif;
+	color: #FFFFFF;
+}
+
+.web-address {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	font-size: 120%;
+}
+
+.content-wrapper {
+	text-align: center;
+	padding-top: 5%;
+}
+
+h1.coming-soon {
+	font-size: 400%;
+}
+
+h3.bringing-you {
+	font-size: 200%;
+}
+
+.signup {
+	padding-top: 5%;
+	font-size: 150%;
+	padding-bottom: 5%;
+}
+
+input.email-signup {
+	color: #000000;
+}
+
+.social-media {
+	padding-top: 100px;
+}
+
+.social-media-icon {
+	color: #FFFFFF;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
